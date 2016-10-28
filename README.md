@@ -7,6 +7,9 @@ JustInMind v7.4.0 破解文件
 ######2016.10.25 
 * 去除联网验证，无需网络也可以正常使用
 
+######2016.10.28
+* 增加7.5.0版本的破解文件
+
 捐赠：喜欢破解的可以支持下哈
 
 ![image](http://qtfreet.com/zfb.png) ![image](http://qtfreet.com/wx.png)
